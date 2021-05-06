@@ -1,0 +1,13 @@
+C:\Users\Flp_n\source\repos\CurusoItau3\CurusoItau3\bin\Debug\netcoreapp3.1\CurusoItau3.exe
+C:\Users\Flp_n\source\repos\CurusoItau3\CurusoItau3\bin\Debug\netcoreapp3.1\CurusoItau3.deps.json
+C:\Users\Flp_n\source\repos\CurusoItau3\CurusoItau3\bin\Debug\netcoreapp3.1\CurusoItau3.runtimeconfig.json
+C:\Users\Flp_n\source\repos\CurusoItau3\CurusoItau3\bin\Debug\netcoreapp3.1\CurusoItau3.runtimeconfig.dev.json
+C:\Users\Flp_n\source\repos\CurusoItau3\CurusoItau3\bin\Debug\netcoreapp3.1\CurusoItau3.dll
+C:\Users\Flp_n\source\repos\CurusoItau3\CurusoItau3\bin\Debug\netcoreapp3.1\CurusoItau3.pdb
+C:\Users\Flp_n\source\repos\CurusoItau3\CurusoItau3\obj\Debug\netcoreapp3.1\CurusoItau3.csprojAssemblyReference.cache
+C:\Users\Flp_n\source\repos\CurusoItau3\CurusoItau3\obj\Debug\netcoreapp3.1\CurusoItau3.AssemblyInfoInputs.cache
+C:\Users\Flp_n\source\repos\CurusoItau3\CurusoItau3\obj\Debug\netcoreapp3.1\CurusoItau3.AssemblyInfo.cs
+C:\Users\Flp_n\source\repos\CurusoItau3\CurusoItau3\obj\Debug\netcoreapp3.1\CurusoItau3.csproj.CoreCompileInputs.cache
+C:\Users\Flp_n\source\repos\CurusoItau3\CurusoItau3\obj\Debug\netcoreapp3.1\CurusoItau3.dll
+C:\Users\Flp_n\source\repos\CurusoItau3\CurusoItau3\obj\Debug\netcoreapp3.1\CurusoItau3.pdb
+C:\Users\Flp_n\source\repos\CurusoItau3\CurusoItau3\obj\Debug\netcoreapp3.1\CurusoItau3.genruntimeconfig.cache
